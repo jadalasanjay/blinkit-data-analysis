@@ -4,7 +4,6 @@ This project presents a comprehensive data analysis of Blinkit, focusing on thei
 
 ## 🚀 Project Objectives
 
-- Analyze Blinkit's 
 - Visualize revenue, gross order value (GOV), and active user trends
 - Identify patterns in customer behavior
 - Track profitability over time
@@ -20,14 +19,6 @@ This project presents a comprehensive data analysis of Blinkit, focusing on thei
 
 - **Power BI** 
 - **Excel**
-
-## 🖼️ Dashboards Preview
-
-_(Add screenshots of your dashboards here if possible)_
-
-## 📁 File
-
-- `blinkit analysis final project.pbix` 
 
 
 ## 🧠 Learnings
