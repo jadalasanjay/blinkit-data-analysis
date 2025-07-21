@@ -16,7 +16,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard]()
+![Dashboard](screenshots/dashboard.png)
 
 ## 🛠 Skills Demonstrated
 
